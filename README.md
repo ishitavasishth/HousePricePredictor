@@ -20,7 +20,7 @@ Shows which features impact pricing most
 
 Lets users interactively test scenarios via sliders
 
-Runs entirely in Google Colab with no upload or API required
+
 
 **Tools & Tech**
 Python, pandas, numpy
